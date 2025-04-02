@@ -8,6 +8,7 @@ lista de mis certificaciones:
 - ** Angular ** - [Certificado](file:///C:/Users/PC-1/Downloads/Certificado-Angular-13-Educaci%C3%B3nIT.pdf)
 - ** MongoDB ** - [Certificado](file:///C:/Users/PC-1/Downloads/Certificado-Introducci%C3%B3n-a-MongoDB-Educaci%C3%B3nIT.pdf)
 - ** NodeJS ** - [Certificado](file:///C:/Users/PC-1/Downloads/Certificado-NodeJS-Backend-Educaci%C3%B3nIT.pdf)
+- ** Git ** - [Certificado](file:///C:/Users/PC-1/Downloads/Certificado-Git_-Desarrollo-Colaborativo-Educaci%C3%B3nIT.pdf)
 - ** C# .NET ** - [Certificado](file:///C:/Users/PC-1/Downloads/Certificado-Introducci%C3%B3n-a-C%23-.NET-Educaci%C3%B3nIT.pdf)
 - ** Python ** - [Certificado](file:///C:/Users/PC-1/Downloads/Lucas%20viveros.pdf)
 - ** SQL Server ** - [Certificado](file:///C:/Users/PC-1/Downloads/lviveros.pdf)
